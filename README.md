@@ -35,5 +35,5 @@ In this application allows you to sign up and then you can sign in, moreover, in
 ## Usage
 Once the backend and frontend are running, you can access the application through your browser and start using the features to manage employees.
 
-## Videos 
+## Video
 - You can see the functionalities of the project in the following link: https://youtu.be/ahkXUCa9CbE
